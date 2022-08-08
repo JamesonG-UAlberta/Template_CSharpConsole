@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows,visualstudio,visualstudiocode,dotnetcore,aspnetcore
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,windows,visualstudio,visualstudiocode,dotnetcore,aspnetcore
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudio,visualstudiocode,dotnetcore,aspnetcore
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,visualstudio,visualstudiocode,dotnetcore,aspnetcore
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -301,7 +301,8 @@ obj/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -620,4 +621,4 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,visualstudio,visualstudiocode,dotnetcore,aspnetcore
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudio,visualstudiocode,dotnetcore,aspnetcore
